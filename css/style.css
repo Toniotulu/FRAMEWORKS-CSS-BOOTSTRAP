@@ -6,6 +6,30 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-font-family: 'PT Sans', sans-serif;
-font-family: 'Source Sans Pro', sans-serif
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+@media (max-width: 768px){
+
+}
+
+.libros-fila{
+    width: 100%;
+    text-align: center;
+}
+}
+
+.card-border{
+    transform: scale(1.05);
+    border: 0;
+}
+
+span{
+    margin: 1rem 0;
+}
+
+.card{
+    text-align: center;
+    align-items: center;
 }
